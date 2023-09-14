@@ -1,0 +1,16 @@
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.exe
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.deps.json
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.runtimeconfig.json
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.runtimeconfig.dev.json
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.dll
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\ref\Aula_14_09_2023.dll
+C:\PA\P.A\PA\Aula_14_09_2023\bin\Debug\net5.0\Aula_14_09_2023.pdb
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.csproj.AssemblyReference.cache
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.AssemblyInfoInputs.cache
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.AssemblyInfo.cs
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.csproj.CoreCompileInputs.cache
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.dll
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\ref\Aula_14_09_2023.dll
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.pdb
+C:\PA\P.A\PA\Aula_14_09_2023\obj\Debug\net5.0\Aula_14_09_2023.genruntimeconfig.cache
